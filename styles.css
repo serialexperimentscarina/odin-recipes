@@ -5,6 +5,7 @@ body {
 h1, h2 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    background-color: rgb(212, 194, 183);
 }
 
 img {
